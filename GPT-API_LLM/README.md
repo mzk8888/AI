@@ -10,4 +10,5 @@ Streamlit を利用して簡単に動かせます。
 3. アプリを起動
 
 ## デモ画面
-（スクリーンショットをここに貼る）
+（<img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/aecbc348-44d1-4fb4-893e-131071853f29" />
+）
